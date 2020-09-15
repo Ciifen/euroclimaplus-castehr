@@ -1,0 +1,2 @@
+# euroclimaplus-castehr
+Se almacenan los productos empleados por el sistema de “Control y Acceso a Series de Tiempo e índicEs HidRometeorológicos” (CASTEHR) desarrollado en el marco del proyecto “FORTALECIMIENTO DE LOS SISTEMAS NACIONAL Y REGIONAL DE MONITOREO Y GESTIÓN DE RIESGOS DE LA SEQUÍA E INUNDACIONES EN UN CONTEXTO DE CAMBIO CLIMÁTICO Y DESERTIFICACIÓN EN LOS PAÍSES ANDINOS” del programa EUROCLIMA+.
