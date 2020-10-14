@@ -1,0 +1,16 @@
+cftime==1.2.1
+climate-indices==1.0.9
+dask==2.28.0
+llvmlite==0.34.0
+nco==1.0.0
+netCDF4==1.5.4
+numba==0.51.2
+numpy==1.19.2
+pandas==1.1.2
+python-dateutil==2.8.1
+pytz==2020.1
+PyYAML==5.3.1
+scipy==1.5.2
+six==1.15.0
+toolz==0.11.1
+xarray==0.16.1
